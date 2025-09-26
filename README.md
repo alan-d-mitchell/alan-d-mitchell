@@ -7,8 +7,8 @@
 ---
 
 ## 🔭 Current / Notable Projects
-- **[Hydra](https://github.com/alan-d-mitchell/Hydra)** – Custom programming language (Rust)  
-  - Completed lexer, started parser, experimenting with different first class language features  
+- **[Hydra](https://github.com/hydra-language/hydra)** – Custom programming language (Rust)  
+  - Completed lexer -> sketching the language grammar  
 - **OpenTrail** – Cross-platform cycling app (React Native + Java backend) *(private project)*  
 
 ---
@@ -26,4 +26,4 @@
 ---
 
 ## ⚡ Fun Fact
-I play tennis and like Deftones
+This was made by AI
